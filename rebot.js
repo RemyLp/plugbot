@@ -258,7 +258,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'basicBot',
+            botName: 'Basement Bot',
             language: 'english',
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://rawgit.com/RemyLp/plugbot/master/rebot.js',
