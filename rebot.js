@@ -250,7 +250,7 @@
         status: true,
         name: 'Basement Bot',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://rawgit.com/RemyLp/plugbot/master/re-bot.js',
         cmdLink: 'http://git.io/245Ppg',
         chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
         chat: null,
